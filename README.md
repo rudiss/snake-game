@@ -4,7 +4,7 @@ A classic Snake game implementation built with React, TypeScript, and Tailwind C
 
 ## 🎮 Live Demo
 
-<https://snake-game-two-gilt.vercel.app/>
+<https://snake-game-jbt4d68q6-rudinei-silvas-projects.vercel.app/>
 
 ## Requirements Fulfilled
 
@@ -25,6 +25,13 @@ A classic Snake game implementation built with React, TypeScript, and Tailwind C
 - Food (blue) gives +3 points
 - Score displayed on screen
 - Game ends on: wall collision, self collision, or reaching 30 points
+
+**Code Quality:**
+
+- Comprehensive JSDoc comments throughout codebase
+- React best practices and performance optimizations
+- Clean architecture with separation of concerns
+- Extensive test coverage (42 tests)
 
 ## Getting Started
 
