@@ -4,11 +4,11 @@ A classic Snake game implementation built with React, TypeScript, and Tailwind C
 
 ## 🎮 Live Demo
 
-Run the game locally to play!
+<https://snake-game-two-gilt.vercel.app/>
 
-## 📋 Requirements Fulfilled
+## Requirements Fulfilled
 
-✅ **Core Requirements:**
+**Core Requirements:**
 
 - React 18+ with functional components and hooks
 - TypeScript for type safety
@@ -17,7 +17,7 @@ Run the game locally to play!
 - Keyboard controls (arrow keys)
 - Configurable board size (default 20×20)
 
-✅ **Game Mechanics:**
+**Game Mechanics:**
 
 - Snake moves automatically every 150ms
 - Arrow keys change direction (not immediate movement)
@@ -26,7 +26,7 @@ Run the game locally to play!
 - Score displayed on screen
 - Game ends on: wall collision, self collision, or reaching 30 points
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -80,7 +80,7 @@ Run tests with coverage:
 npm run test:coverage
 ```
 
-## 🎯 How to Play
+## How to Play
 
 1. Click "Start Game" to begin
 2. Use arrow keys to control the snake's direction:
@@ -176,31 +176,4 @@ You can easily change the board size by passing a prop to the `SnakeGame` compon
 5. **Board Style**: Grid with visible cell borders for clarity
 6. **No Wrap-Around**: Snake cannot move through walls to opposite side
 
-## 🔄 Future Enhancements
-
-Potential improvements that could be added:
-
-- Difficulty levels (changing speed)
-- High score tracking with localStorage
-- Pause/Resume functionality
-- Sound effects
-- Mobile touch controls
-- Multiplayer mode
-- Different game modes (walls vs no walls)
-- Power-ups and obstacles
-
-## 🐛 Known Issues
-
-None at this time. The game is fully functional per requirements.
-
-## 📄 License
-
-This project was created as a coding challenge submission.
-
-## 👤 Author
-
-[Your Name]
-
 ---
-
-Built with ❤️ using React, TypeScript, and Tailwind CSS
